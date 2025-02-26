@@ -36,3 +36,10 @@ node_modules/
 .env
 .DS_Store
 *.log
+
+# .gitignore
+node_modules/
+.next/
+public/static/chunks/
+*.log
+.env

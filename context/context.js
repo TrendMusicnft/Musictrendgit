@@ -29,7 +29,8 @@ export const MusicNFTContext = React.createContext();
 export const MusicNFTProvider = ({ children }) => {
   const MUSIC_DAPP = "Music Dapp";
   const currency = "BNB";
-  const network = "Polygon";
+  const network = "Bsc";
+
 
   const [loader, setLoader] = useState(false);
 

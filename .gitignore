@@ -30,6 +30,7 @@ yarn-error.log*
 
 # vercel
 .vercel
+<<<<<<< HEAD
 
 # .gitignore
 node_modules/
@@ -37,9 +38,3 @@ node_modules/
 .DS_Store
 *.log
 
-# .gitignore
-node_modules/
-.next/
-public/static/chunks/
-*.log
-.env
